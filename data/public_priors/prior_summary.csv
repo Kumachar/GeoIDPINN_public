@@ -1,0 +1,6 @@
+prior,n_regions,diag_mean,offdiag_mean,row_sum_min,row_sum_max,nonzero_offdiag_edges,source
+identity,64,1.0,0.0,1.0,1.0,0,generated from downloaded public prior data; see references.md
+distance,64,0.7999999999999999,0.19999999999999996,0.9999999999999998,1.0000000000000002,4032,generated from downloaded public prior data; see references.md
+adjacency,64,0.7999999999999999,0.19999999999999996,0.9999999999999999,1.0,322,generated from downloaded public prior data; see references.md
+hybrid_distance_adjacency,64,0.7999999999999999,0.19999999999999996,0.9999999999999998,1.0000000000000002,4032,generated from downloaded public prior data; see references.md
+wrong_antidistance,64,0.7999999999999999,0.19999999999999996,0.9999999999999998,1.0000000000000002,4032,generated from downloaded public prior data; see references.md

@@ -1,0 +1,323 @@
+County Name,County GEOID,Neighbor Name,Neighbor GEOID,Length,Length_num
+"Acadia Parish, LA",22001,"Evangeline Parish, LA",22039,13328,13328.0
+"Acadia Parish, LA",22001,"Jefferson Davis Parish, LA",22053,84778,84778.0
+"Acadia Parish, LA",22001,"Lafayette Parish, LA",22055,30941,30941.0
+"Acadia Parish, LA",22001,"St. Landry Parish, LA",22097,53833,53833.0
+"Acadia Parish, LA",22001,"Vermilion Parish, LA",22113,61962,61962.0
+"Allen Parish, LA",22003,"Beauregard Parish, LA",22011,65120,65120.0
+"Allen Parish, LA",22003,"Evangeline Parish, LA",22039,55231,55231.0
+"Allen Parish, LA",22003,"Jefferson Davis Parish, LA",22053,55214,55214.0
+"Allen Parish, LA",22003,"Rapides Parish, LA",22079,22769,22769.0
+"Allen Parish, LA",22003,"Vernon Parish, LA",22115,16436,16436.0
+"Ascension Parish, LA",22005,"Assumption Parish, LA",22007,16886,16886.0
+"Ascension Parish, LA",22005,"East Baton Rouge Parish, LA",22033,16670,16670.0
+"Ascension Parish, LA",22005,"Iberville Parish, LA",22047,32303,32303.0
+"Ascension Parish, LA",22005,"Livingston Parish, LA",22063,53568,53568.0
+"Ascension Parish, LA",22005,"St. James Parish, LA",22093,34462,34462.0
+"Ascension Parish, LA",22005,"St. John the Baptist Parish, LA",22095,6148,6148.0
+"Assumption Parish, LA",22007,"Ascension Parish, LA",22005,16886,16886.0
+"Assumption Parish, LA",22007,"Iberia Parish, LA",22045,8680,8680.0
+"Assumption Parish, LA",22007,"Iberville Parish, LA",22047,12129,12129.0
+"Assumption Parish, LA",22007,"Lafourche Parish, LA",22057,25983,25983.0
+"Assumption Parish, LA",22007,"St. James Parish, LA",22093,25486,25486.0
+"Assumption Parish, LA",22007,"St. Martin Parish, LA",22099,42130,42130.0
+"Assumption Parish, LA",22007,"St. Mary Parish, LA",22101,9840,9840.0
+"Assumption Parish, LA",22007,"Terrebonne Parish, LA",22109,12232,12232.0
+"Avoyelles Parish, LA",22009,"Catahoula Parish, LA",22025,56183,56183.0
+"Avoyelles Parish, LA",22009,"Concordia Parish, LA",22029,40586,40586.0
+"Avoyelles Parish, LA",22009,"Evangeline Parish, LA",22039,16830,16830.0
+"Avoyelles Parish, LA",22009,"LaSalle Parish, LA",22059,11456,11456.0
+"Avoyelles Parish, LA",22009,"Pointe Coupee Parish, LA",22077,23647,23647.0
+"Avoyelles Parish, LA",22009,"Rapides Parish, LA",22079,75405,75405.0
+"Avoyelles Parish, LA",22009,"St. Landry Parish, LA",22097,38010,38010.0
+"Avoyelles Parish, LA",22009,"West Feliciana Parish, LA",22125,3837,3837.0
+"Beauregard Parish, LA",22011,"Allen Parish, LA",22003,65120,65120.0
+"Beauregard Parish, LA",22011,"Calcasieu Parish, LA",22019,78268,78268.0
+"Beauregard Parish, LA",22011,"Jefferson Davis Parish, LA",22053,2277,2277.0
+"Beauregard Parish, LA",22011,"Vernon Parish, LA",22115,65621,65621.0
+"Bienville Parish, LA",22013,"Bossier Parish, LA",22015,31607,31607.0
+"Bienville Parish, LA",22013,"Claiborne Parish, LA",22027,27978,27978.0
+"Bienville Parish, LA",22013,"Jackson Parish, LA",22049,44570,44570.0
+"Bienville Parish, LA",22013,"Lincoln Parish, LA",22061,24193,24193.0
+"Bienville Parish, LA",22013,"Natchitoches Parish, LA",22069,23404,23404.0
+"Bienville Parish, LA",22013,"Red River Parish, LA",22081,33819,33819.0
+"Bienville Parish, LA",22013,"Webster Parish, LA",22119,46028,46028.0
+"Bienville Parish, LA",22013,"Winn Parish, LA",22127,11675,11675.0
+"Bossier Parish, LA",22015,"Bienville Parish, LA",22013,31607,31607.0
+"Bossier Parish, LA",22015,"Caddo Parish, LA",22017,233484,233484.0
+"Bossier Parish, LA",22015,"Red River Parish, LA",22081,3875,3875.0
+"Bossier Parish, LA",22015,"Webster Parish, LA",22119,103834,103834.0
+"Caddo Parish, LA",22017,"Bossier Parish, LA",22015,233484,233484.0
+"Caddo Parish, LA",22017,"De Soto Parish, LA",22031,70997,70997.0
+"Caddo Parish, LA",22017,"Red River Parish, LA",22081,13690,13690.0
+"Calcasieu Parish, LA",22019,"Beauregard Parish, LA",22011,78268,78268.0
+"Calcasieu Parish, LA",22019,"Cameron Parish, LA",22023,71485,71485.0
+"Calcasieu Parish, LA",22019,"Jefferson Davis Parish, LA",22053,77919,77919.0
+"Caldwell Parish, LA",22021,"Catahoula Parish, LA",22025,15913,15913.0
+"Caldwell Parish, LA",22021,"Franklin Parish, LA",22041,40293,40293.0
+"Caldwell Parish, LA",22021,"Jackson Parish, LA",22049,14562,14562.0
+"Caldwell Parish, LA",22021,"LaSalle Parish, LA",22059,29037,29037.0
+"Caldwell Parish, LA",22021,"Ouachita Parish, LA",22073,29600,29600.0
+"Caldwell Parish, LA",22021,"Richland Parish, LA",22083,46135,46135.0
+"Caldwell Parish, LA",22021,"Winn Parish, LA",22127,24215,24215.0
+"Cameron Parish, LA",22023,"Calcasieu Parish, LA",22019,71485,71485.0
+"Cameron Parish, LA",22023,"Jefferson Davis Parish, LA",22053,25053,25053.0
+"Cameron Parish, LA",22023,"Vermilion Parish, LA",22113,68505,68505.0
+"Catahoula Parish, LA",22025,"Avoyelles Parish, LA",22009,56183,56183.0
+"Catahoula Parish, LA",22025,"Caldwell Parish, LA",22021,15913,15913.0
+"Catahoula Parish, LA",22025,"Concordia Parish, LA",22029,139117,139117.0
+"Catahoula Parish, LA",22025,"Franklin Parish, LA",22041,67094,67094.0
+"Catahoula Parish, LA",22025,"LaSalle Parish, LA",22059,66938,66938.0
+"Catahoula Parish, LA",22025,"Tensas Parish, LA",22107,16715,16715.0
+"Claiborne Parish, LA",22027,"Bienville Parish, LA",22013,27978,27978.0
+"Claiborne Parish, LA",22027,"Lincoln Parish, LA",22061,39499,39499.0
+"Claiborne Parish, LA",22027,"Union Parish, LA",22111,29888,29888.0
+"Claiborne Parish, LA",22027,"Webster Parish, LA",22119,61537,61537.0
+"Concordia Parish, LA",22029,"Avoyelles Parish, LA",22009,40586,40586.0
+"Concordia Parish, LA",22029,"Catahoula Parish, LA",22025,139117,139117.0
+"Concordia Parish, LA",22029,"Pointe Coupee Parish, LA",22077,2799,2799.0
+"Concordia Parish, LA",22029,"Tensas Parish, LA",22107,18591,18591.0
+"Concordia Parish, LA",22029,"West Feliciana Parish, LA",22125,17143,17143.0
+"De Soto Parish, LA",22031,"Caddo Parish, LA",22017,70997,70997.0
+"De Soto Parish, LA",22031,"Natchitoches Parish, LA",22069,21878,21878.0
+"De Soto Parish, LA",22031,"Red River Parish, LA",22081,56648,56648.0
+"De Soto Parish, LA",22031,"Sabine Parish, LA",22085,41472,41472.0
+"East Baton Rouge Parish, LA",22033,"Ascension Parish, LA",22005,16670,16670.0
+"East Baton Rouge Parish, LA",22033,"East Feliciana Parish, LA",22037,47439,47439.0
+"East Baton Rouge Parish, LA",22033,"Iberville Parish, LA",22047,13740,13740.0
+"East Baton Rouge Parish, LA",22033,"Livingston Parish, LA",22063,70503,70503.0
+"East Baton Rouge Parish, LA",22033,"St. Helena Parish, LA",22091,17408,17408.0
+"East Baton Rouge Parish, LA",22033,"West Baton Rouge Parish, LA",22121,63382,63382.0
+"East Carroll Parish, LA",22035,"Madison Parish, LA",22065,37943,37943.0
+"East Carroll Parish, LA",22035,"Richland Parish, LA",22083,7360,7360.0
+"East Carroll Parish, LA",22035,"West Carroll Parish, LA",22123,72878,72878.0
+"East Feliciana Parish, LA",22037,"East Baton Rouge Parish, LA",22033,47439,47439.0
+"East Feliciana Parish, LA",22037,"St. Helena Parish, LA",22091,53996,53996.0
+"East Feliciana Parish, LA",22037,"West Baton Rouge Parish, LA",22121,1428,1428.0
+"East Feliciana Parish, LA",22037,"West Feliciana Parish, LA",22125,54078,54078.0
+"Evangeline Parish, LA",22039,"Acadia Parish, LA",22001,13328,13328.0
+"Evangeline Parish, LA",22039,"Allen Parish, LA",22003,55231,55231.0
+"Evangeline Parish, LA",22039,"Avoyelles Parish, LA",22009,16830,16830.0
+"Evangeline Parish, LA",22039,"Jefferson Davis Parish, LA",22053,1293,1293.0
+"Evangeline Parish, LA",22039,"Rapides Parish, LA",22079,51574,51574.0
+"Evangeline Parish, LA",22039,"St. Landry Parish, LA",22097,75707,75707.0
+"Franklin Parish, LA",22041,"Caldwell Parish, LA",22021,40293,40293.0
+"Franklin Parish, LA",22041,"Catahoula Parish, LA",22025,67094,67094.0
+"Franklin Parish, LA",22041,"Madison Parish, LA",22065,56856,56856.0
+"Franklin Parish, LA",22041,"Richland Parish, LA",22083,82033,82033.0
+"Franklin Parish, LA",22041,"Tensas Parish, LA",22107,50277,50277.0
+"Grant Parish, LA",22043,"LaSalle Parish, LA",22059,93734,93734.0
+"Grant Parish, LA",22043,"Natchitoches Parish, LA",22069,39974,39974.0
+"Grant Parish, LA",22043,"Rapides Parish, LA",22079,74968,74968.0
+"Grant Parish, LA",22043,"Winn Parish, LA",22127,67474,67474.0
+"Iberia Parish, LA",22045,"Assumption Parish, LA",22007,8680,8680.0
+"Iberia Parish, LA",22045,"Iberville Parish, LA",22047,19102,19102.0
+"Iberia Parish, LA",22045,"Lafayette Parish, LA",22055,4532,4532.0
+"Iberia Parish, LA",22045,"St. Martin Parish, LA",22099,94983,94983.0
+"Iberia Parish, LA",22045,"St. Mary Parish, LA",22101,116025,116025.0
+"Iberia Parish, LA",22045,"Vermilion Parish, LA",22113,62475,62475.0
+"Iberville Parish, LA",22047,"Ascension Parish, LA",22005,32303,32303.0
+"Iberville Parish, LA",22047,"Assumption Parish, LA",22007,12129,12129.0
+"Iberville Parish, LA",22047,"East Baton Rouge Parish, LA",22033,13740,13740.0
+"Iberville Parish, LA",22047,"Iberia Parish, LA",22045,19102,19102.0
+"Iberville Parish, LA",22047,"Pointe Coupee Parish, LA",22077,23475,23475.0
+"Iberville Parish, LA",22047,"St. Martin Parish, LA",22099,77022,77022.0
+"Iberville Parish, LA",22047,"West Baton Rouge Parish, LA",22121,43907,43907.0
+"Jackson Parish, LA",22049,"Bienville Parish, LA",22013,44570,44570.0
+"Jackson Parish, LA",22049,"Caldwell Parish, LA",22021,14562,14562.0
+"Jackson Parish, LA",22049,"Lincoln Parish, LA",22061,38872,38872.0
+"Jackson Parish, LA",22049,"Ouachita Parish, LA",22073,28274,28274.0
+"Jackson Parish, LA",22049,"Winn Parish, LA",22127,47503,47503.0
+"Jefferson Parish, LA",22051,"Lafourche Parish, LA",22057,96681,96681.0
+"Jefferson Parish, LA",22051,"Orleans Parish, LA",22071,45742,45742.0
+"Jefferson Parish, LA",22051,"Plaquemines Parish, LA",22075,95172,95172.0
+"Jefferson Parish, LA",22051,"St. Charles Parish, LA",22089,59408,59408.0
+"Jefferson Parish, LA",22051,"St. John the Baptist Parish, LA",22095,10409,10409.0
+"Jefferson Parish, LA",22051,"St. Tammany Parish, LA",22103,5444,5444.0
+"Jefferson Davis Parish, LA",22053,"Acadia Parish, LA",22001,84778,84778.0
+"Jefferson Davis Parish, LA",22053,"Allen Parish, LA",22003,55214,55214.0
+"Jefferson Davis Parish, LA",22053,"Beauregard Parish, LA",22011,2277,2277.0
+"Jefferson Davis Parish, LA",22053,"Calcasieu Parish, LA",22019,77919,77919.0
+"Jefferson Davis Parish, LA",22053,"Cameron Parish, LA",22023,25053,25053.0
+"Jefferson Davis Parish, LA",22053,"Evangeline Parish, LA",22039,1293,1293.0
+"Jefferson Davis Parish, LA",22053,"Vermilion Parish, LA",22113,16870,16870.0
+"Lafayette Parish, LA",22055,"Acadia Parish, LA",22001,30941,30941.0
+"Lafayette Parish, LA",22055,"Iberia Parish, LA",22045,4532,4532.0
+"Lafayette Parish, LA",22055,"St. Landry Parish, LA",22097,24563,24563.0
+"Lafayette Parish, LA",22055,"St. Martin Parish, LA",22099,56297,56297.0
+"Lafayette Parish, LA",22055,"Vermilion Parish, LA",22113,40376,40376.0
+"Lafourche Parish, LA",22057,"Assumption Parish, LA",22007,25983,25983.0
+"Lafourche Parish, LA",22057,"Jefferson Parish, LA",22051,96681,96681.0
+"Lafourche Parish, LA",22057,"St. Charles Parish, LA",22089,43767,43767.0
+"Lafourche Parish, LA",22057,"St. James Parish, LA",22093,27849,27849.0
+"Lafourche Parish, LA",22057,"St. John the Baptist Parish, LA",22095,14298,14298.0
+"Lafourche Parish, LA",22057,"Terrebonne Parish, LA",22109,137506,137506.0
+"LaSalle Parish, LA",22059,"Avoyelles Parish, LA",22009,11456,11456.0
+"LaSalle Parish, LA",22059,"Caldwell Parish, LA",22021,29037,29037.0
+"LaSalle Parish, LA",22059,"Catahoula Parish, LA",22025,66938,66938.0
+"LaSalle Parish, LA",22059,"Grant Parish, LA",22043,93734,93734.0
+"LaSalle Parish, LA",22059,"Rapides Parish, LA",22079,31808,31808.0
+"LaSalle Parish, LA",22059,"Winn Parish, LA",22127,27464,27464.0
+"Lincoln Parish, LA",22061,"Bienville Parish, LA",22013,24193,24193.0
+"Lincoln Parish, LA",22061,"Claiborne Parish, LA",22027,39499,39499.0
+"Lincoln Parish, LA",22061,"Jackson Parish, LA",22049,38872,38872.0
+"Lincoln Parish, LA",22061,"Ouachita Parish, LA",22073,9684,9684.0
+"Lincoln Parish, LA",22061,"Union Parish, LA",22111,51119,51119.0
+"Livingston Parish, LA",22063,"Ascension Parish, LA",22005,53568,53568.0
+"Livingston Parish, LA",22063,"East Baton Rouge Parish, LA",22033,70503,70503.0
+"Livingston Parish, LA",22063,"St. Helena Parish, LA",22091,32937,32937.0
+"Livingston Parish, LA",22063,"St. John the Baptist Parish, LA",22095,20545,20545.0
+"Livingston Parish, LA",22063,"Tangipahoa Parish, LA",22105,53610,53610.0
+"Madison Parish, LA",22065,"East Carroll Parish, LA",22035,37943,37943.0
+"Madison Parish, LA",22065,"Franklin Parish, LA",22041,56856,56856.0
+"Madison Parish, LA",22065,"Richland Parish, LA",22083,22319,22319.0
+"Madison Parish, LA",22065,"Tensas Parish, LA",22107,47318,47318.0
+"Morehouse Parish, LA",22067,"Ouachita Parish, LA",22073,57243,57243.0
+"Morehouse Parish, LA",22067,"Richland Parish, LA",22083,48838,48838.0
+"Morehouse Parish, LA",22067,"Union Parish, LA",22111,42574,42574.0
+"Morehouse Parish, LA",22067,"West Carroll Parish, LA",22123,58137,58137.0
+"Natchitoches Parish, LA",22069,"Bienville Parish, LA",22013,23404,23404.0
+"Natchitoches Parish, LA",22069,"De Soto Parish, LA",22031,21878,21878.0
+"Natchitoches Parish, LA",22069,"Grant Parish, LA",22043,39974,39974.0
+"Natchitoches Parish, LA",22069,"Rapides Parish, LA",22079,41649,41649.0
+"Natchitoches Parish, LA",22069,"Red River Parish, LA",22081,71518,71518.0
+"Natchitoches Parish, LA",22069,"Sabine Parish, LA",22085,72604,72604.0
+"Natchitoches Parish, LA",22069,"Vernon Parish, LA",22115,26130,26130.0
+"Natchitoches Parish, LA",22069,"Winn Parish, LA",22127,82936,82936.0
+"Orleans Parish, LA",22071,"Jefferson Parish, LA",22051,45742,45742.0
+"Orleans Parish, LA",22071,"Plaquemines Parish, LA",22075,14081,14081.0
+"Orleans Parish, LA",22071,"St. Bernard Parish, LA",22087,81291,81291.0
+"Orleans Parish, LA",22071,"St. Tammany Parish, LA",22103,51474,51474.0
+"Ouachita Parish, LA",22073,"Caldwell Parish, LA",22021,29600,29600.0
+"Ouachita Parish, LA",22073,"Jackson Parish, LA",22049,28274,28274.0
+"Ouachita Parish, LA",22073,"Lincoln Parish, LA",22061,9684,9684.0
+"Ouachita Parish, LA",22073,"Morehouse Parish, LA",22067,57243,57243.0
+"Ouachita Parish, LA",22073,"Richland Parish, LA",22083,32928,32928.0
+"Ouachita Parish, LA",22073,"Union Parish, LA",22111,44211,44211.0
+"Plaquemines Parish, LA",22075,"Jefferson Parish, LA",22051,95172,95172.0
+"Plaquemines Parish, LA",22075,"Orleans Parish, LA",22071,14081,14081.0
+"Plaquemines Parish, LA",22075,"St. Bernard Parish, LA",22087,116703,116703.0
+"Pointe Coupee Parish, LA",22077,"Avoyelles Parish, LA",22009,23647,23647.0
+"Pointe Coupee Parish, LA",22077,"Concordia Parish, LA",22029,2799,2799.0
+"Pointe Coupee Parish, LA",22077,"Iberville Parish, LA",22047,23475,23475.0
+"Pointe Coupee Parish, LA",22077,"St. Landry Parish, LA",22097,46806,46806.0
+"Pointe Coupee Parish, LA",22077,"St. Martin Parish, LA",22099,5267,5267.0
+"Pointe Coupee Parish, LA",22077,"West Baton Rouge Parish, LA",22121,32569,32569.0
+"Pointe Coupee Parish, LA",22077,"West Feliciana Parish, LA",22125,111896,111896.0
+"Rapides Parish, LA",22079,"Allen Parish, LA",22003,22769,22769.0
+"Rapides Parish, LA",22079,"Avoyelles Parish, LA",22009,75405,75405.0
+"Rapides Parish, LA",22079,"Evangeline Parish, LA",22039,51574,51574.0
+"Rapides Parish, LA",22079,"Grant Parish, LA",22043,74968,74968.0
+"Rapides Parish, LA",22079,"LaSalle Parish, LA",22059,31808,31808.0
+"Rapides Parish, LA",22079,"Natchitoches Parish, LA",22069,41649,41649.0
+"Rapides Parish, LA",22079,"Vernon Parish, LA",22115,65146,65146.0
+"Red River Parish, LA",22081,"Bienville Parish, LA",22013,33819,33819.0
+"Red River Parish, LA",22081,"Bossier Parish, LA",22015,3875,3875.0
+"Red River Parish, LA",22081,"Caddo Parish, LA",22017,13690,13690.0
+"Red River Parish, LA",22081,"De Soto Parish, LA",22031,56648,56648.0
+"Red River Parish, LA",22081,"Natchitoches Parish, LA",22069,71518,71518.0
+"Richland Parish, LA",22083,"Caldwell Parish, LA",22021,46135,46135.0
+"Richland Parish, LA",22083,"East Carroll Parish, LA",22035,7360,7360.0
+"Richland Parish, LA",22083,"Franklin Parish, LA",22041,82033,82033.0
+"Richland Parish, LA",22083,"Madison Parish, LA",22065,22319,22319.0
+"Richland Parish, LA",22083,"Morehouse Parish, LA",22067,48838,48838.0
+"Richland Parish, LA",22083,"Ouachita Parish, LA",22073,32928,32928.0
+"Richland Parish, LA",22083,"West Carroll Parish, LA",22123,27445,27445.0
+"Sabine Parish, LA",22085,"De Soto Parish, LA",22031,41472,41472.0
+"Sabine Parish, LA",22085,"Natchitoches Parish, LA",22069,72604,72604.0
+"Sabine Parish, LA",22085,"Vernon Parish, LA",22115,51058,51058.0
+"St. Bernard Parish, LA",22087,"Orleans Parish, LA",22071,81291,81291.0
+"St. Bernard Parish, LA",22087,"Plaquemines Parish, LA",22075,116703,116703.0
+"St. Bernard Parish, LA",22087,"St. Tammany Parish, LA",22103,13334,13334.0
+"St. Charles Parish, LA",22089,"Jefferson Parish, LA",22051,59408,59408.0
+"St. Charles Parish, LA",22089,"Lafourche Parish, LA",22057,43767,43767.0
+"St. Charles Parish, LA",22089,"St. John the Baptist Parish, LA",22095,51149,51149.0
+"St. Helena Parish, LA",22091,"East Baton Rouge Parish, LA",22033,17408,17408.0
+"St. Helena Parish, LA",22091,"East Feliciana Parish, LA",22037,53996,53996.0
+"St. Helena Parish, LA",22091,"Livingston Parish, LA",22063,32937,32937.0
+"St. Helena Parish, LA",22091,"Tangipahoa Parish, LA",22105,38785,38785.0
+"St. James Parish, LA",22093,"Ascension Parish, LA",22005,34462,34462.0
+"St. James Parish, LA",22093,"Assumption Parish, LA",22007,25486,25486.0
+"St. James Parish, LA",22093,"Lafourche Parish, LA",22057,27849,27849.0
+"St. James Parish, LA",22093,"St. John the Baptist Parish, LA",22095,37535,37535.0
+"St. John the Baptist Parish, LA",22095,"Ascension Parish, LA",22005,6148,6148.0
+"St. John the Baptist Parish, LA",22095,"Jefferson Parish, LA",22051,10409,10409.0
+"St. John the Baptist Parish, LA",22095,"Lafourche Parish, LA",22057,14298,14298.0
+"St. John the Baptist Parish, LA",22095,"Livingston Parish, LA",22063,20545,20545.0
+"St. John the Baptist Parish, LA",22095,"St. Charles Parish, LA",22089,51149,51149.0
+"St. John the Baptist Parish, LA",22095,"St. James Parish, LA",22093,37535,37535.0
+"St. John the Baptist Parish, LA",22095,"St. Tammany Parish, LA",22103,5046,5046.0
+"St. John the Baptist Parish, LA",22095,"Tangipahoa Parish, LA",22105,33875,33875.0
+"St. Landry Parish, LA",22097,"Acadia Parish, LA",22001,53833,53833.0
+"St. Landry Parish, LA",22097,"Avoyelles Parish, LA",22009,38010,38010.0
+"St. Landry Parish, LA",22097,"Evangeline Parish, LA",22039,75707,75707.0
+"St. Landry Parish, LA",22097,"Lafayette Parish, LA",22055,24563,24563.0
+"St. Landry Parish, LA",22097,"Pointe Coupee Parish, LA",22077,46806,46806.0
+"St. Landry Parish, LA",22097,"St. Martin Parish, LA",22099,51485,51485.0
+"St. Martin Parish, LA",22099,"Assumption Parish, LA",22007,42130,42130.0
+"St. Martin Parish, LA",22099,"Iberia Parish, LA",22045,94983,94983.0
+"St. Martin Parish, LA",22099,"Iberville Parish, LA",22047,77022,77022.0
+"St. Martin Parish, LA",22099,"Lafayette Parish, LA",22055,56297,56297.0
+"St. Martin Parish, LA",22099,"Pointe Coupee Parish, LA",22077,5267,5267.0
+"St. Martin Parish, LA",22099,"St. Landry Parish, LA",22097,51485,51485.0
+"St. Martin Parish, LA",22099,"St. Mary Parish, LA",22101,53391,53391.0
+"St. Mary Parish, LA",22101,"Assumption Parish, LA",22007,9840,9840.0
+"St. Mary Parish, LA",22101,"Iberia Parish, LA",22045,116025,116025.0
+"St. Mary Parish, LA",22101,"St. Martin Parish, LA",22099,53391,53391.0
+"St. Mary Parish, LA",22101,"Terrebonne Parish, LA",22109,80142,80142.0
+"St. Tammany Parish, LA",22103,"Jefferson Parish, LA",22051,5444,5444.0
+"St. Tammany Parish, LA",22103,"Orleans Parish, LA",22071,51474,51474.0
+"St. Tammany Parish, LA",22103,"St. Bernard Parish, LA",22087,13334,13334.0
+"St. Tammany Parish, LA",22103,"St. John the Baptist Parish, LA",22095,5046,5046.0
+"St. Tammany Parish, LA",22103,"Tangipahoa Parish, LA",22105,65467,65467.0
+"St. Tammany Parish, LA",22103,"Washington Parish, LA",22117,40204,40204.0
+"Tangipahoa Parish, LA",22105,"Livingston Parish, LA",22063,53610,53610.0
+"Tangipahoa Parish, LA",22105,"St. Helena Parish, LA",22091,38785,38785.0
+"Tangipahoa Parish, LA",22105,"St. John the Baptist Parish, LA",22095,33875,33875.0
+"Tangipahoa Parish, LA",22105,"St. Tammany Parish, LA",22103,65467,65467.0
+"Tangipahoa Parish, LA",22105,"Washington Parish, LA",22117,47100,47100.0
+"Tensas Parish, LA",22107,"Catahoula Parish, LA",22025,16715,16715.0
+"Tensas Parish, LA",22107,"Concordia Parish, LA",22029,18591,18591.0
+"Tensas Parish, LA",22107,"Franklin Parish, LA",22041,50277,50277.0
+"Tensas Parish, LA",22107,"Madison Parish, LA",22065,47318,47318.0
+"Terrebonne Parish, LA",22109,"Assumption Parish, LA",22007,12232,12232.0
+"Terrebonne Parish, LA",22109,"Lafourche Parish, LA",22057,137506,137506.0
+"Terrebonne Parish, LA",22109,"St. Mary Parish, LA",22101,80142,80142.0
+"Union Parish, LA",22111,"Claiborne Parish, LA",22027,29888,29888.0
+"Union Parish, LA",22111,"Lincoln Parish, LA",22061,51119,51119.0
+"Union Parish, LA",22111,"Morehouse Parish, LA",22067,42574,42574.0
+"Union Parish, LA",22111,"Ouachita Parish, LA",22073,44211,44211.0
+"Vermilion Parish, LA",22113,"Acadia Parish, LA",22001,61962,61962.0
+"Vermilion Parish, LA",22113,"Cameron Parish, LA",22023,68505,68505.0
+"Vermilion Parish, LA",22113,"Iberia Parish, LA",22045,62475,62475.0
+"Vermilion Parish, LA",22113,"Jefferson Davis Parish, LA",22053,16870,16870.0
+"Vermilion Parish, LA",22113,"Lafayette Parish, LA",22055,40376,40376.0
+"Vernon Parish, LA",22115,"Allen Parish, LA",22003,16436,16436.0
+"Vernon Parish, LA",22115,"Beauregard Parish, LA",22011,65621,65621.0
+"Vernon Parish, LA",22115,"Natchitoches Parish, LA",22069,26130,26130.0
+"Vernon Parish, LA",22115,"Rapides Parish, LA",22079,65146,65146.0
+"Vernon Parish, LA",22115,"Sabine Parish, LA",22085,51058,51058.0
+"Washington Parish, LA",22117,"St. Tammany Parish, LA",22103,40204,40204.0
+"Washington Parish, LA",22117,"Tangipahoa Parish, LA",22105,47100,47100.0
+"Webster Parish, LA",22119,"Bienville Parish, LA",22013,46028,46028.0
+"Webster Parish, LA",22119,"Bossier Parish, LA",22015,103834,103834.0
+"Webster Parish, LA",22119,"Claiborne Parish, LA",22027,61537,61537.0
+"West Baton Rouge Parish, LA",22121,"East Baton Rouge Parish, LA",22033,63382,63382.0
+"West Baton Rouge Parish, LA",22121,"East Feliciana Parish, LA",22037,1428,1428.0
+"West Baton Rouge Parish, LA",22121,"Iberville Parish, LA",22047,43907,43907.0
+"West Baton Rouge Parish, LA",22121,"Pointe Coupee Parish, LA",22077,32569,32569.0
+"West Baton Rouge Parish, LA",22121,"West Feliciana Parish, LA",22125,2068,2068.0
+"West Carroll Parish, LA",22123,"East Carroll Parish, LA",22035,72878,72878.0
+"West Carroll Parish, LA",22123,"Morehouse Parish, LA",22067,58137,58137.0
+"West Carroll Parish, LA",22123,"Richland Parish, LA",22083,27445,27445.0
+"West Feliciana Parish, LA",22125,"Avoyelles Parish, LA",22009,3837,3837.0
+"West Feliciana Parish, LA",22125,"Concordia Parish, LA",22029,17143,17143.0
+"West Feliciana Parish, LA",22125,"East Feliciana Parish, LA",22037,54078,54078.0
+"West Feliciana Parish, LA",22125,"Pointe Coupee Parish, LA",22077,111896,111896.0
+"West Feliciana Parish, LA",22125,"West Baton Rouge Parish, LA",22121,2068,2068.0
+"Winn Parish, LA",22127,"Bienville Parish, LA",22013,11675,11675.0
+"Winn Parish, LA",22127,"Caldwell Parish, LA",22021,24215,24215.0
+"Winn Parish, LA",22127,"Grant Parish, LA",22043,67474,67474.0
+"Winn Parish, LA",22127,"Jackson Parish, LA",22049,47503,47503.0
+"Winn Parish, LA",22127,"LaSalle Parish, LA",22059,27464,27464.0
+"Winn Parish, LA",22127,"Natchitoches Parish, LA",22069,82936,82936.0

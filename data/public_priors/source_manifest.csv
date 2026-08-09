@@ -1,0 +1,5 @@
+data_role,file,local_path,source_url,reference
+population-weighted county/parish centers,CenPop2020_Mean_CO.txt,raw/CenPop2020_Mean_CO.txt,https://www2.census.gov/geo/docs/reference/cenpop2020/county/CenPop2020_Mean_CO.txt,"U.S. Census Bureau 2020 Centers of Population, county level"
+county/parish adjacency,county_adjacency2025.txt,raw/county_adjacency2025.txt,https://www2.census.gov/geo/docs/reference/county_adjacency/county_adjacency2025.txt,U.S. Census Bureau 2025 County Adjacency File
+commuting/home-work OD source for later commuting prior,la_od_main_JT01_2019.csv.gz,not downloaded in this bundle,https://lehd.ces.census.gov/data/lodes/LODES8/la/od/la_od_main_JT01_2019.csv.gz,U.S. Census LEHD LODES8 Louisiana OD main primary jobs 2019
+commuting/home-work OD source for all jobs alternative,la_od_main_JT00_2019.csv.gz,not downloaded in this bundle,https://lehd.ces.census.gov/data/lodes/LODES8/la/od/la_od_main_JT00_2019.csv.gz,U.S. Census LEHD LODES8 Louisiana OD main all jobs 2019

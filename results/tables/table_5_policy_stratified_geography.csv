@@ -1,0 +1,5 @@
+Origin,Policy phase,Restriction index,Both MAE and MSE improve,Top-30% relative-MSE count,Mean relative MSE reduction (%)
+2020-07-23,Phase 2,3,9/15,4,3.6109852721224223
+2020-09-03,Phase 2 to Phase 3,2,6/15,3,-11.4857304588551
+2020-10-15,Phase 3,1,11/15,6,2.646119814951874
+2020-11-26,Modified Phase 2,4,7/15,5,2.549850865481904

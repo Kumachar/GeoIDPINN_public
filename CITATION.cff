@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or the released aggregate results, please cite the accompanying paper."
+title: "GeoID-PINN: Identifiability-Aware Regional Epidemic Inference with Geographic Coupling"
+type: software
+authors:
+  - family-names: Hua
+    given-names: Weixiong
+  - family-names: Bu
+    given-names: Fan
+year: 2026
