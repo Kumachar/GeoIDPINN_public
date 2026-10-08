@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GeoID-PINN-public-release.iml" filepath="$PROJECT_DIR$/.idea/GeoID-PINN-public-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/geoid-pinn.iml" filepath="$PROJECT_DIR$/.idea/geoid-pinn.iml" />
     </modules>
   </component>
 </project>

@@ -71,7 +71,3 @@ $env:LOUISIANA_DATA_ROOT = "C:\path\to\local\study-data"
 $env:GEOID_ALL64_MODE = "smoke"
 python experiments/real_data_geoid_all64_theta2_combined_masked_origin.py
 ```
-
-Training outputs are ignored by Git. Run the release audit before every public
-commit. A software/data license has not yet been assigned; choose one before
-publishing the GitHub repository.
