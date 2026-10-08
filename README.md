@@ -38,7 +38,7 @@ PINN variants improve point accuracy while NB-AR retains the best likelihood.
   LaTeX source.
 - `figures/supplementary/`: model comparisons, prior sensitivity, and learned
   matrix diagnostics.
-- `notebooks/`: clean English notebooks that use only included files.
+- `notebooks/`: notebooks that use only included files.
 - `experiments/`: real-data training protocols; these require a separately
   obtained local study file.
 - `src/geoid_pinn/`: reusable data, path, prior, and significance helpers.
